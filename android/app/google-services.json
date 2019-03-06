@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "98295590414",
+    "firebase_url": "https://my-project-1501063330795.firebaseio.com",
+    "project_id": "my-project-1501063330795",
+    "storage_bucket": "my-project-1501063330795.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98295590414:android:f8293d887e9d3c47",
+        "android_client_info": {
+          "package_name": "com.binanceapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98295590414-cdaqpk86phpn2tkeni95e5ooqutg0ljq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj0OtbH-Rthzu29eoIPQLRPH2X2ZrUnZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
